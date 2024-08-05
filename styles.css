@@ -1,0 +1,154 @@
+*{box-sizing: border-box;
+margin: 0;padding: 0;background-repeat:no-repeat}
+body {background-image: url(imagenes/fondo.png); margin: 0; padding: 0%;
+height: 1920px; margin: 0; background-repeat:no-repeat;background-size: cover;}
+.body2{background-image: url(imagenes/fond2.png);}
+
+.barra
+{
+    background-color: #070718d7;
+   
+}
+
+.container-fluid {margin: 0%;}
+.btn-primary{height: 103px;font-size:16px;
+padding-top: 2%;
+background-color:#07071800;
+border: none;
+border-bottom: none;
+
+}
+
+
+
+.nombre{background-color: aquag;padding-top:380px; color:white ; height: 500px;font-family: 'milestone'; padding-left:30px ;}
+
+.nombre h2{font-size: 50px;}
+
+@font-face {
+    font-family:'milestone';
+    src: url(fuentes/MilestoneBrush.ttf);
+}
+
+
+@font-face {
+    font-family:'monserrat';
+    src: url(fuentes/Montserrat-Regular.ttf);
+}
+@font-face {
+    font-family:'monserratb';
+    src: url(fuentes/Montserrat-Bold.ttf);
+}
+   
+   h2{margin:0% 5% 0% 5%}
+   p{margin:0% 5% 0% 5%}
+   h3{margin:0% 5% 0% 5%}
+ 
+  
+
+.parrafo{background-color: krgb(172, 127, 255); color:white ;padding-left:30px ;}
+
+.caja1{background-color: krgb(194, 141, 255);}
+
+.bordes{background-color: laquamarine;}
+
+.bordes2{background-color: lrgba(45, 110, 89, 0.205);}
+
+.caja3{ height:500px;background-color: rgb(0, 31, 131);}
+
+.caja4{ background-color: krgb(108, 182, 201);height: 650px;}
+
+.granEsp{background-color: lrgb(62, 179, 142);height: 700px;}
+
+.caja6{background-color: kaquamarine;height:716px ;}
+
+.caja7{background-color: lrgb(94, 97, 247);}
+
+.caja8{background-color: kbisque;}
+
+.parrafo2{ height: 500px; padding-top: 6%;color: white; text-align: 
+    justify; font-family:'monserrat'; background-color: jrgb(22, 88, 88);}
+
+    .parrafo2 h2{font-family:'monserratb'; margin:0% 5% 0% 5%}
+    .parrafo2 p{margin:2% 5% 0% 5%}
+    .parrafo2 a{margin-left: 45%;margin-top:3%;width: 100px;border-radius: 100px;}
+
+.parrafo3{ background-color:#110a4671;color:white;height:400px; padding-top:5%; text-align: 
+    justify; font-family:'monserrat'}
+
+    .parrafo3 h2{margin: 0% 5% 0% 5%;font-family:'monserratb';padding-top: 1%}
+    .parrafo3 p{margin: 1% 5% 0% 5%;}
+
+    .titulo0{background-color: kaquamarine;height: 200px; padding-top: 50px;color: white;text-align:center;}
+    .titulo0 h2{font-family:'monserrat';font-size:30px }
+    .titulo0 h3{   font-family:'monserratb';}
+
+.fotdes1{background-color: lrgb(20, 85, 85);height:500px ;}
+.fotdes1 img{margin:0% 2% 2% 2%}
+
+
+
+.fotdes2{ background-color: laqua;height:500px;}
+.fotdes2 img{margin:0% 2% 2% 2%; width: 470px;}
+
+  
+.espcf{background-color: kquamarine;margin-top: -3% ;}
+
+
+.esplad{background-color: kgb(225, 127, 255);}
+
+.bodes{background-color: kisque;}
+
+.barrazul{background-color:#110a4671;}
+
+.lat{color:white ;height: 200px;}
+
+.foott{background-image: url(imagenes/footer.png);background-color:rgb(15, 4, 63) ;}
+
+.centrarSlider { display: flex;
+    justify-content: center;}
+
+.bot2{background-color: kaquamarine;padding: 80px;
+}
+
+.btn-light{width: 200px;height: 60px; font-size:16px;
+    padding-top: 20px;
+    background-color:rgb(106, 90, 255);
+    border: none;
+    color: white;
+    font-family: 'milestone';
+    font-size: 25px;
+    
+    }
+
+    .espiconos{ margin:10px;padding-top: 20%;}
+   
+.lat a{margin: 0% 5% 0% 5%;}
+.lat h2{padding-top: 15%;}
+
+
+
+ /* PARTE SERVICIOS */
+
+.titul1{background-color: aquag;padding-top:15%; color:white ; height: 400px;font-family: 'milestone';text-align: center;background-color: aquamarine; }
+.titul1 h1{font-size: 100px;background-color: aqua;}
+
+.parr{background-color: jrgb(172, 127, 255); color:white ;text-align: center;padding-top:60px;height: 180px}
+
+.Ofrezco{background-color: rgb(172, 127, 255); color:white ;text-align: center;padding-top:10px;height:70px;font-family:'monserratb';font-size: 30px;}
+    
+.diseñod{background-color: rgb(76, 56, 114); color:white ;text-align: center;padding-top:10px;height:200px; font-family:'monserrat';}
+
+.servicios{background-color: rgb(140, 114, 189); color:white ;text-align: center;padding-top:10px;height:300px; font-family:'monserrat';}
+
+.servicios a{background-color: kaquamarine;padding: 10px; margin: 5% ;width:100px; height:50px;
+}
+
+.bajimg{margin-top: 10%; }
+
+.baj2img{margin-top: 20%;}
+
+.linea{
+    text-decoration:underline;
+    text-decoration:underline;color: rgb(197, 187, 255);
+}
